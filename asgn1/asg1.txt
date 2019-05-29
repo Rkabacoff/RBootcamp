@@ -1,0 +1,27 @@
+ASG # 1
+Write an R script to
+
+files for 1-3 are in DATA directory
+
+1. read  family63A_tab.txt (tab delimited data) 
+2. read family63B_FreeForm.txt (free form text file
+3. read family63C.csv  (comma delimited)
+
+
+4. merge/append A, B, C as appropriate
+
+5. Calculate descriptive statistics or frequencies
+	a) whole sample
+	b) by region
+
+
+6. Compare average E across regions
+
+7. create  regional dummies  (south=1 if region=3, zero otherwise)
+			      (northcentral=1 if region=2, zero otherwise)
+			      (west=1 if region=4, zero otherwise)
+
+8. estimate E=f(edu) and 
+	E=f(edu, south, northcentral, west)
+
+9. Produce a graph that shows regional differences like the one in varsbyregion_R.pdf
