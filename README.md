@@ -1,4 +1,4 @@
-# RBootcamp 2019
+# R Bootcamp
 
 The material in this repository is for the R Bootcamp class at Wesleyan University
 
