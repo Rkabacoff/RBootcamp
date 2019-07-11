@@ -19,5 +19,3 @@ library(vcd)
 help(Arthritis)
 Arthritis
 example(Arthritis)
-
-# some stuff
